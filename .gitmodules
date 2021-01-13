@@ -1,0 +1,12 @@
+[submodule "app-monitor"]
+	path = app-monitor
+	url = https://yorick-flannagan@bitbucket.org/yakoana/app-monitor.git
+[submodule "mgmt-app"]
+	path = mgmt-app
+	url = https://yorick-flannagan@bitbucket.org/yakoana/mgmt-app.git
+[submodule "mgmt-servlet"]
+	path = mgmt-servlet
+	url = https://yorick-flannagan@bitbucket.org/yakoana/mgmt-servlet.git
+[submodule "things-mgmt"]
+	path = things-mgmt
+	url = https://yorick-flannagan@bitbucket.org/yakoana/things-mgmt.git
